@@ -1,0 +1,26 @@
+form {
+	position: relative;
+}
+
+button {
+	background-color: #e6e3e3;
+	border: 1px solid #e6e3e3;
+	font-weight: bold;
+	color: #808080;
+	padding: 10px;
+	position: absolute;
+}
+
+.button1 {
+	top: 50px;
+	left: 0;
+}
+
+.button2 {
+	top: 50px;
+	left: 140px;
+}
+
+input {
+	position: absolute;
+}
